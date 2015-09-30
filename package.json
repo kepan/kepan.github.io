@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/kepan/kepan.github.io/issues"
   },
-  "homepage": "https://github.com/kepan/kepan.github.io#readme"
+  "homepage": "https://github.com/kepan/kepan.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.4.1",
+    "gulp-zip": "^3.0.2"
+  }
 }
