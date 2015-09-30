@@ -1,0 +1,19 @@
+{
+  "name": "kepan.github.io",
+  "version": "1.0.0",
+  "description": "This is my blog based on jekyll. And I change the style and interactive. If you want to use this model of the blog. **Please give a star at this repository**. Then you can clone it as your blog model.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kepan/kepan.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kepan/kepan.github.io/issues"
+  },
+  "homepage": "https://github.com/kepan/kepan.github.io#readme"
+}
